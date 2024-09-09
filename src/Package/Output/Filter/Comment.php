@@ -1,11 +1,11 @@
 <?php
 
-namespace Package\Raxon\Org\Output\Filter\Output\Filter;
+namespace Package\Raxon\Output\Filter\Output\Filter;
 
-use Raxon\Org\App;
+use Raxon\App;
 
-use Raxon\Org\Module\Controller;
-use Raxon\Org\Module\Parse\Value;
+use Raxon\Module\Controller;
+use Raxon\Module\Parse\Value;
 
 class Comment extends Controller
 {
