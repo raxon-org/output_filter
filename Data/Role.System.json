@@ -1,0 +1,95 @@
+{
+  "name": "ROLE_SYSTEM",
+  "rank": 1,
+  "#class": "Account.Role",
+  "permission": [
+    {
+      "name": "System:Output:Filter:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Output:Filter:rename",
+      "#class": "Account.Permission"
+    }
+  ]
+}
