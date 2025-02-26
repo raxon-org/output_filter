@@ -3,9 +3,8 @@
 namespace Package\Raxon\Output\Filter\Output\Filter;
 
 use Raxon\App;
-
 use Raxon\Module\Controller;
-use Raxon\Module\Parse\Value;
+use Raxon\Module\Value;
 
 class Comment extends Controller
 {
