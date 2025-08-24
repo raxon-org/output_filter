@@ -22,8 +22,7 @@ class Cli extends Controller {
     const DIR = __DIR__ . '/';
     const MODULE_INFO = 'Info';
     const INFO = [
-        '{{binary()}} raxon/output_filter           | Output filter options',
-        '{{binary()}} raxon/output_filter setup     | Output filter setup',
+        '{{binary()}} raxon/output_filter           | Output filter options',        
     ];
 
     /**
